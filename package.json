@@ -41,7 +41,7 @@
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
-    "@frctl/fractal": "^1.2.1",
+    "@frctl/fractal": "^1.5.1",
     "@vue/test-utils": "^1.0.3",
     "autoprefixer": "^6.7.3",
     "babel-core": "^6.26.3",
